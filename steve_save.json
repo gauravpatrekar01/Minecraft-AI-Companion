@@ -1,0 +1,85 @@
+{
+    "version": "1.0",
+    "day": 1,
+    "time_of_day": 150.02499999999995,
+    "inventory": {
+        "wood": 8,
+        "stone": 0,
+        "coal": 1,
+        "iron": 1,
+        "gold": 0,
+        "diamond": 1,
+        "bread": 4,
+        "bone": 0,
+        "potion": 1
+    },
+    "stats": {
+        "trees_cut": 8,
+        "blocks_mined": 13,
+        "zombies_killed": 0,
+        "buildings": 4,
+        "distance_walked": 0.0,
+        "diamonds_found": 1,
+        "creeper_explosions": 0,
+        "xp": 0,
+        "level": 1
+    },
+    "equipment": {
+        "sword": "iron_sword",
+        "pickaxe": "wood_pickaxe",
+        "armor": "none"
+    },
+    "steve": {
+        "x": 704,
+        "y": 592.644,
+        "health": 20,
+        "hunger": 31.977499999994244,
+        "level": 1,
+        "xp": 0
+    },
+    "wolf": {
+        "tamed": false,
+        "sitting": false,
+        "health": 20
+    },
+    "world": {
+        "modified_blocks": {
+            "3,0": "air",
+            "3,-1": "air",
+            "15,0": "air",
+            "13,0": "furnace",
+            "13,-1": "air",
+            "16,0": "crafting_table",
+            "23,0": "air",
+            "23,-1": "air",
+            "33,0": "air",
+            "33,-1": "air",
+            "43,0": "air",
+            "43,-1": "air",
+            "15,-1": "air",
+            "18,1": "planks",
+            "19,1": "planks",
+            "20,1": "planks",
+            "21,1": "planks",
+            "18,0": "planks",
+            "18,-1": "planks",
+            "18,-2": "planks",
+            "21,0": "planks",
+            "21,-1": "planks",
+            "21,-2": "planks",
+            "19,-2": "planks",
+            "20,-2": "planks",
+            "19,0": "planks",
+            "28,0": "air",
+            "28,-1": "air",
+            "35,0": "air",
+            "35,-1": "air"
+        },
+        "structures": {
+            "campfire": true,
+            "crafting_table": true,
+            "furnace": true,
+            "house": true
+        }
+    }
+}
